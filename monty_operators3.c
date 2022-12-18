@@ -1,4 +1,4 @@
-#include "monty.h"2
+#include "monty.h"
 
 /**
 * f_pop - function that prints the top of the stack
