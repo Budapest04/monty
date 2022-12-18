@@ -1,4 +1,4 @@
-#include "monty.h"j
+#include "monty.h"
 
 /**
 * f_rotr - function that rotates the stack to the bottom
