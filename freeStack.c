@@ -1,4 +1,4 @@
-#include "monty.h"c
+#include "monty.h"
 
 /**
 * free_stack - function that frees a doubly linked list
